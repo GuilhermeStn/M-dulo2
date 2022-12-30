@@ -1,5 +1,5 @@
 # Site-guana
-Módulo 2 do curdo de html e css
+Módulo 2 do curso de html e css
 
 link do github : https://gustavoguanabara.github.io
 
